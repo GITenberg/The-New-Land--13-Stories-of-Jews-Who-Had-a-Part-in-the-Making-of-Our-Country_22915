@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25596'
     url: http://www.gutenberg.org/2009/agents/25596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22915#The-New-Land--13-Stories-of-Jews-Who-Had-a-Part-in-the-Making-of-Our-Country
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2007-10-08'
 gutenberg_type: Text
