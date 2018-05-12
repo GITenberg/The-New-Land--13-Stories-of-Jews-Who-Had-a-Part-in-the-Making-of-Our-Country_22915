@@ -1,0 +1,31 @@
+_repo: The-New-Land--13-Stories-of-Jews-Who-Had-a-Part-in-the-Making-of-Our-Country_22915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levinger, Elma Ehrlich
+    birthdate: 1887
+    gutenberg_agent_id: '25596'
+    url: http://www.gutenberg.org/2009/agents/25596
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2007-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22915'
+  lccn: '20010306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- America'
+- !lcc 'PS'
+tableOfContents: In the night watches -- When Katrina lost her way -- A place of refuge
+  -- "Down with King George" -- The last service -- The generous giver -- Across the
+  waters -- Three at grace -- The lucky stone -- The princess of Philadelphia -- A
+  present for Mr. Lincoln -- The land Columbus found.
+title: "The New Land\r\nStories of Jews Who Had a Part in the Making of Our Country"
+url: http://www.gutenberg.org/ebooks/22915
